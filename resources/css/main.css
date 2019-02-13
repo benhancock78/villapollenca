@@ -1,0 +1,140 @@
+body  {
+  /* font-size:
+  font-family: */
+  color: #262626;
+  border: 10px solid #0094AE;
+  max-width: 1200px;
+  margin: 0 auto;
+
+}
+
+.border_radius  {
+  border-radius: 0.3rem;
+}
+
+.med_blue {
+  background-color: #0094AE;
+}
+
+.box_shadow {
+  box-shadow: 5px 7px lightgray;
+}
+
+.text_white {
+  color: white;
+}
+
+.logo {
+  padding: 0.5rem;
+  border-radius: 3rem;
+  border: 3px solid #0094AE;
+}
+
+.margin_bottom  {
+  margin-bottom: 5rem;
+}
+
+.padding  {
+  padding: 2rem;
+}
+
+.gray {
+  background-color: lightgray;
+}
+
+.jumbotron  {
+  background-image: url(../../resources/images/jumbo.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: bottom;
+  height: 400px;
+  /* position: absolute; */
+  /* top: 500px; */
+}
+.transbox {
+  background-color: rgb(211,211,211, 0.9);
+  padding: 1rem 2rem;
+  border-radius: .3rem;
+  /* max-width: 500px;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center; */
+  position: relative;
+  top: 200px;
+}
+
+h1  {
+  color: gray;
+  display: inline-flex;
+}
+
+
+/* ....section....intro.... */
+
+.section_intro  {
+  margin-bottom: 5rem;
+  max-width: 900px;
+
+}
+
+
+/* ...section...links.... */
+
+.tw_f {
+  max-width: 50px;
+  max-height: 50px;
+}
+
+
+/* ....section....overview.... */
+
+
+
+
+/* ....section....photos.... */
+.section_photos img {
+width: 300px;
+height: 200px;
+}
+
+
+.img_cont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section_links  img {
+  margin-top: 20px;
+}
+
+/* ....section...reviews... */
+
+
+/* ....section....jumbo2.... */
+
+.jumbo2 {
+  background-image: url(../../resources/images/landscape.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.jumbo2 p {
+  background-color: white;
+  padding: 0.5rem;
+  /* max-height: 90px;
+  padding: 0.5rem; */
+}
+
+.jumbo2 .box {
+
+}
+
+footer  p {
+  margin-bottom: 0;
+}
